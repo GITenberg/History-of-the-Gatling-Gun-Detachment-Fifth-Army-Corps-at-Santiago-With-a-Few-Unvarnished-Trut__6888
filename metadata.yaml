@@ -1,0 +1,26 @@
+_repo: History-of-the-Gatling-Gun-Detachment-Fifth-Army-Corps-at-Santiago-With-a-Few-Unvarnished-Trut__6888
+creator:
+  author:
+    agent_name: Parker, John H. (John Henry)
+    birthdate: 1866
+    gutenberg_agent_id: '2239'
+    url: http://www.gutenberg.org/2009/agents/2239
+description: ''
+gutenberg_bookshelf: Spanish American War
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6888'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States artillery. Gatling gun detachment (5th corps) 1898'
+- !lcc 'E660'
+- !lcsh 'Spanish-American War, 1898 -- Personal narratives'
+- !lcsh 'Spanish-American War, 1898 -- Regimental histories'
+- !lcsh 'Gatling guns'
+title: "History of the Gatling Gun Detachment, Fifth Army Corps, at Santiago\r\nWith\
+  \ a Few Unvarnished Truths Concerning that Expedition"
+url: http://www.gutenberg.org/ebooks/6888
